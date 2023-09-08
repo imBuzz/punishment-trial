@@ -1,0 +1,15 @@
+name: punishment-trial
+version: '${version}'
+main: it.buzz.punishment.Punishment
+api-version: '1.20'
+authors: [ Buzz ]
+
+commands:
+  ban:
+  mute:
+  unban:
+  unmute:
+  kick:
+  history:
+  checkban:
+  checkmute:
